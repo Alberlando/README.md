@@ -22,6 +22,7 @@ I work in data collection, structuring and pre-processing processes, in addition
  #### 💻 Uso diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
