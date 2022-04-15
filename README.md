@@ -37,5 +37,6 @@ I work in data collection, structuring and pre-processing processes, in addition
 
  #### ⚙️ Engenharia de dados:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Airflow)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  
